@@ -5,7 +5,7 @@ agent:
     type: e1-standard-5
     os_image: ubuntu2004
 blocks:
-  - name: Mining Tasks
+  - name: saw
     task:
       jobs:
         - name: Start Task 1
